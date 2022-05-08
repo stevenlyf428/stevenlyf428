@@ -2,9 +2,7 @@
 a **SE student**  from SWU 🏛. I'm an Artificial Intelligence Freshman 🐔. 
 
 **Talking about Personal Stuffs:**
-<!-- 
-- 📝 See my website: [https://stevenlyf428.github.io](https://stevenlyf428.github.io) to get more info.
-- or [https://stevenlyf.xyz](https://stevenlyf.xyz)  -->
+
 
 **Languages and Tools:**  
 
